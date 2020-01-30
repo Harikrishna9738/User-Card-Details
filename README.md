@@ -1,4 +1,4 @@
-# CartItems
+# User-Card-Details
 
 This project contains a card details along with details and which includes the delete option
 ```
