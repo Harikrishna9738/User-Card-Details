@@ -1,9 +1,6 @@
 # CartItems
 
-TodoList
-
-which contains two components one for inputting the task and another componet to show the bunch of tasks
-For Frontend which is ReactJS, Dependencies are:
+This project contains a card details along with details and which includes the delete option
 ```
 "react": "^16.12.0",
 "react-dom": "^16.12.0",
